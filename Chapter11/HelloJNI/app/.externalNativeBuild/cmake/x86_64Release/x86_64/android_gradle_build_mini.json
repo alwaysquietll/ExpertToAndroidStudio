@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\.externalNativeBuild\\cmake\\x86_64Release\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Release-x86_64": {
+      "artifactName": "hello-jni",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\.externalNativeBuild\\cmake\\x86_64Release\\x86_64 --target hello-jni",
+      "abi": "x86_64",
+      "output": "F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\build\\intermediates\\cmake\\x86_64\\release\\obj\\x86_64\\libhello-jni.so"
+    }
+  }
+}

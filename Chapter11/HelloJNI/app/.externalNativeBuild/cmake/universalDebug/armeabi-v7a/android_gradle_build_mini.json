@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\.externalNativeBuild\\cmake\\universalDebug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Debug-armeabi-v7a": {
+      "artifactName": "hello-jni",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\.externalNativeBuild\\cmake\\universalDebug\\armeabi-v7a --target hello-jni",
+      "abi": "armeabi-v7a",
+      "output": "F:\\WorkSpace\\Android\\ExpertToAndroidStudio\\Chapter11\\HelloJNI\\app\\build\\intermediates\\cmake\\universal\\debug\\obj\\armeabi-v7a\\libhello-jni.so"
+    }
+  }
+}
